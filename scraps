@@ -1,0 +1,19 @@
+# hill climbing algo with 50 sequences as points
+
+The local maxima here is  [380, 374, 382, 388, 384, 387, 385, 362, 258, 381, 373, 390]
+The accuracy of selected sequence is  79.22891115171134
+
+# after running with 100 parents and 30 children in gen 2 and 3
+
+the fitness of gen 1 is  81.60037043496541 79.89656488073516
+The parent with most fitness [381, 381, 388, 258, 374, 466, 253, 249, 382, 259, 254, 257]
+The parent with second most fitness [384, 384, 466, 249, 382, 259, 390, 374, 382, 387, 390, 257]
+
+the fitness of gen 2 is  84.40131036293839 83.66164542704315
+The child with most fitness [381, 381, 466, 249, 382, 259, 390, 374, 382, 387, 263, 257]
+The child with second most fitness [381, 381, 388, 258, 253, 466, 253, 249, 382, 259, 390, 257]
+
+the fitness of gen 3 is  84.45445567734041 83.92211004435937
+The grand child with most fitness [381, 381, 249, 249, 382, 259, 253, 249, 382, 259, 390, 257]
+The grand child with second most fitness [381, 381, 388, 258, 253, 466, 253, 249, 382, 259, 374, 257]
+
